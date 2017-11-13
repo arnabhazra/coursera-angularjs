@@ -1,0 +1,13 @@
+.redMessage{
+  color:red;
+}
+
+.greenMessage{
+  color:green;
+}
+.redBorder{
+  border-color: :red;
+}
+.greenBorder{
+  border-color: :green;
+}
