@@ -1,8 +1,4 @@
-Reads textbox input and shows appropriate message.
+1. Remove item from toBuy Array
+2. Add item to AlreadyBought Array
 
-BONUS Functionalities Implemented:
-
-1. If the message is "Enjoy!" or "Too much!", make the font color green.
-If the message is "Please enter data first", make the font color red.
-
-2.NOT considering empty item, i.e., , , as an item towards to the count.
+By default five items are listed.
